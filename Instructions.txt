@@ -1,0 +1,3 @@
+Download and install MRST using this link (https://www.sintef.no/projectweb/mrst/download/)
+Launch MATLAB R2022a or later version
+Run Script
